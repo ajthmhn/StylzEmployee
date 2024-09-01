@@ -1,0 +1,225 @@
+/* 
+  Localizable.strings
+  Stylz
+
+  Created by WC_Macmini on 27/02/23.
+  
+*/
+
+"enter_email" = "يرجى ادخال البريد الالكتروني";
+"enter_passwrd" = "يرجى ادخال الرقم السري";
+"enter_phone" = "يرجى ادخال رقم الهاتف";
+"no_data" = "لم يتم العثور على البيانات";
+"enter_valid" = "ادخل بريد الكتروني صالح";
+
+"enter_username" = "الرجاء إدخال اسم المستخدم";
+"enter_password" = "الرجاء إدخال كلمة المرور";
+"profile_updated" = "تم تحديث الملف الشخصي بنجاح";
+"network_error" = "خطأ في الشبكة";
+"ok" = "نعم";
+"no_data" = "لاتوجد بيانات";
+"use_camera" = "استخدم الكاميرا";
+"use_gallery" = "استخدم المعرض";
+"cancel" = "يلغي";
+"enter_valid_email" = "أدخل بريدًا إلكترونيًا صالحًا";
+"appointments" = "تعيينات";
+"services" = "خدمات";
+"settings" = "إعدادات";
+"upcoming_appoinments" = "المواعيد القادمة";
+"date" = "تاريخ";
+"time" = "وقت";
+"client" = "عميل";
+"print_receipt" = "اطبع الايصال";
+"rescedule" = "إعادة الجدولة";
+"checkout" = "الدفع";
+"add_basket" = "اضف الى السلة";
+"basket" = "سلة";
+"subtotal" = "المجموع الفرعي";
+"total" = "المجموع";
+"place_order" = "ضع طلبًا لـ";
+"select_date" = "حدد التاريخ والوقت";
+"available_time" = "الوقت المتاح";
+"choose_client" = "اختر العميل";
+"rescedule_appointment" = "اعادة جدولة الموعد";
+"select_client" = "حدد العميل";
+"book_appoint" = "موعد الكتاب";
+"search" = "يبحث";
+"thank_you" = "شكرًا لك!";
+"appointment_resceduled" = "تم إعادة تحديد الموعد";
+"email_send" = "لحجز موعدك على النظام تم إرسال رسالة تأكيد إلى بريدك الإلكتروني ورقم هاتفك المحمول";
+"settings" = "إعدادات";
+"account" = "حساب";
+"profile" = "حساب تعريفي";
+"notifications" = "إشعارات";
+"report" = "التقارير";
+"language" = "لغة";
+"signout" = "خروج";
+"update" = "تحديث";
+"select_service" = "الرجاء تحديد الخدمة";
+"select_employee" = "الرجاء تحديد موظف";
+"select_time" = "الرجاء تحديد وقت";
+"select_client" = "الرجاء تحديد العميل";
+"enter_mobile" = "الرجاء إدخال رقم الهاتف المحمول";
+"enter_name" = "الرجاء إدخال الاسم";
+"enter_email" = "الرجاء إدخال البريد الإلكتروني";
+"enter_phone" = "الرجاء إدخال الهاتف";
+"success" = "نجاح";
+"service_added" = "تمت إضافة الخدمة إلى السلة";
+"checkout_succcess" = "نجاح الخروج";
+"cancel_appopint" = "هل تريد الغاء الموعد؟";
+"yes" = "نعم";
+"no" = "لا";
+"userId" = "معرف المستخدم أو البريد الإلكتروني";
+"password" = "كلمة المرور";
+"retrive" = "استعادة كلمة المرور؟";
+"login" = "تسجيل الدخول";
+"account_recovery" = "استرجاع الحساب";
+"enter_recovery" = "الرجاء إدخال رقم هاتفك لإرسال رمز الاسترداد إليك";
+"phone_no" = "رقم التليفون";
+"send" = "يرسل";
+"enter_new" = "الرجاء إدخال كلمة مرور جديدة";
+"new_password" = "كلمة المرور الجديدة";
+"enter_recovery" = "الرجاء إدخال رمز الاسترداد";
+"code" = "إعادة تعيين الرمز";
+"verify" = "يؤكد";
+"sales" = "مبيعات";
+"cash" = "نقدي :";
+"pos_online" = "مدفوعات البطاقة :";
+"pos_split_online" = "تقسيم نقاط البيع عبر الإنترنت:";
+"pos_split_cash" = "تقسيم نقاط البيع كاش:";
+"app_sales" = "دفعات الطلب :";
+"cancel_penality" = "عقوبة الإلغاء:";
+"total_sales" = "إجمالي المبيعات :";
+"employee_sales" = "مبيعات الموظفين";
+"service_sales" = "مبيعات الخدمات";
+"no_customer" = "عدد العملاء:";
+"no_service" = "عدد الخدمات:";
+"add_client" = "إضافة عميل";
+"full_name" = "الاسم الكامل";
+"email" = "بريد إلكتروني";
+"back_service" = "العودة إلى الخدمات";
+"search_service" = "ابحث عن الخدمات";
+"cvonfirm_payment"  = "تأكيد الدفع";
+"online_paid" = "المبلغ المدفوع عبر الإنترنت";
+"cash_paid" = "المبلغ النقدي المدفوع";
+"balance" = "توازن";
+"card" = "بطاقة";
+"cashs" = "نقدي";
+"split" = "ينقسم";
+
+
+
+
+"valid_otp" = "ادخل رمز تحقق صالح";
+"enter_otp" = "أدخل كلمة المرور";
+
+"enter_pass" = "ادخل الرمز السري";
+"retype_pass" = "الرجاء إعادة كتابة كلمة المرور الخاصة بك";
+
+"password_missmatch" = "الرقم السري غير مطابق";
+"password_updated" = "تم تحديث الرقم السري";
+"forgot_pass" = "نسيت الرقم السري";
+"submit" = "ادفع";
+"update_pass" = "تم تحديث الرقم السري";
+"confirm_password" = "اكد الرقم السرير";
+
+"phone" = "رقم الهاتف";
+
+"create_account" = "انشئ حساب ";
+"otp_verification" = "التحقق من انه انت";
+"check_phone" = "يرجى التحقق من هاتفك لقد ارسلنا رمز التحقق لمرة واحدة";
+"check_email" = "يرجى التحقق من البريد الالكتروني لقد ارسلنا رمز التحقق لمرة واحدة";
+"continue" = "استمر";
+"didnt_receive" = "لم تتلقى ؟";
+"resend" = "اعادة ارسال الرمز";
+
+
+
+"Something went wrong try again..." = "حدث خطأ ما حاول مرة أخرى...";
+
+"No location found. Please select any location first" = "لم يتم العثور على موقع. الرجاء تحديد أي موقع أولاً";
+
+"network Error" = "خطأ في الشبكة";
+"Please enter a valid number" = "من فضلك أدخل رقما صالحا";
+"Verify your email address" = "تحقق من عنوان بريدك الإلكتروني";
+
+"Password must be at least 8 characters long" = "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل";
+
+"Are you sure you want to signout?" = "هل أنت متأكد أنك تريد الخروج؟";
+"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"Image updated" = "تم تحديث الصورة";
+"Verified" = "تم التحقق";
+"Unverified" = "لم يتم التحقق منها";
+"Please choose location" = "الرجاء اختيار الموقع";
+"Please enter promo code" = "الرجاء إدخال الرمز الترويجي";
+
+"Upload" = "رفع";
+
+
+"no_appoint" = "لا توجد لديك مواعيد";
+"rescedule_appopint" = "هل تريد اعادة جدولة الموعد";
+
+
+
+"Send OTP" = "أرسل كلمة مرور لمرة واحدة";
+"All" = "الجميع";
+"Client Added" = "تمت إضافة العميل";
+"Client found" = "تم العثور على العميل";
+"VAT" = "ضريبة القيمة المضافة";
+
+
+
+"Password must be at least 8 characters long" = "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل";
+"Please select a time" = "الرجاء تحديد الوقت";
+
+"Enter the email address or phone number with your account and we'll send an email with confirmation to reset your password" = "أدخل عنوان البريد الإلكتروني أو رقم الهاتف في حسابك وسنرسل إليك بريدًا إلكترونيًا يتضمن تأكيدًا لحفظ كلمة المرور الخاصة بك";
+
+
+"Continue" = "يكمل";
+"Not now" = "ليس الآن";
+"Email" = "بريد إلكتروني";
+"Phone" = "هاتف";
+
+
+"rate" = "السعر";
+"duration" = "المدة";
+"book_now" = "احجز الان";
+"add_basket" = "اضف الى السلة";
+"basket" = "السلة";
+
+"change_password" = "تغيير الرقم السري";
+"old_password" = "كلمة المرور الحالية";
+"new_password" = "الرقم السري الجديد";
+"enter_current" = "يرجى ادخال الرقم السري الحالي ";
+"change_password" = "تغيير الرقم السري";
+
+
+"Paid" = "مدفوع";
+"Un Paid" = "غير مدفوعة";
+
+"Branch is closed on this day" = "الفرع مغلق في هذا اليوم";
+
+"Cancel" = "يلغي";
+
+
+
+
+
+/*version 1*/
+
+"Discount" = "تخفيض";
+"DiscountAmount" = "مقدار الخصم :";
+
+
+
+"confirm" = "يتأكد";
+"cancel" = "يلغي";
+"YouSure" = "هل أنت متأكد؟";
+"WantToDelete" = "هل أنت متأكد أنك تريد حذف الحساب؟";
+"DeletedMsg" = "تم حذف الحساب بنجاح";
+"DeleteAccount" = "حذف الحساب";
+"DeleteAccount2" = "حذف الحساب؟";
+
+"Your Cart is Empty" = "عربة التسوق فارغة";
+
+"done" = "منتهي";

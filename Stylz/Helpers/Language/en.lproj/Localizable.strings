@@ -1,0 +1,222 @@
+/* 
+  Localizable.strings
+  Stylz
+
+  Created by WC_Macmini on 27/02/23.
+  
+*/
+
+
+
+"enter_email" = "Please enter email";
+"enter_passwrd" = "Please enter password";
+"enter_phone" = "Please enter phone";
+"no_data" = "No data found";
+"enter_valid" = "Enter valid email";
+
+
+
+"enter_username" = "Please enter user name";
+"enter_password" = "Please enter password";
+"profile_updated" = "Profile updated successfully";
+"network_error" = "Network Error";
+"ok" = "Ok";
+"no_data" = "No data found";
+"use_camera" = "Use Camera";
+"use_gallery" = "Use Gallery";
+"cancel" = "Cancel";
+"enter_valid_email" = "Enter valid email";
+"appointments" = "Appointments";
+"services" = "Services";
+"settings" = "Settings";
+"upcoming_appoinments" = "Upcoming Appointments";
+"date" = "Date";
+"time" = "Time";
+"client" = "Client";
+"print_receipt" = "Print Receipt";
+"rescedule" = "Rescedule";
+"checkout" = "Checkout";
+"add_basket" = "Add To Basket";
+"basket" = "Basket";
+"subtotal" = "Sub Total";
+"total" = "Total";
+"place_order" = "PLACE ORDER FOR";
+"select_date" = "Select date & time";
+"available_time" = "Available Time";
+"choose_client" = "Choose Client";
+"rescedule_appointment" = "Reschedule Appointment";
+"select_client" = "Select Clilent";
+"book_appoint" = "Book Appointment";
+"search" = "Search";
+"thank_you" = "Thank You!";
+"appointment_resceduled" = "The Appointment is rescheduled";
+"email_send" = "For Booking your Appointment on SYSTEM A confirmation message has been sent to your email and your Mobile number";
+"settings" = "Settings";
+"account" = "Account";
+"profile" = "Profile";
+"notifications" = "Notifications";
+"report" = "Reports";
+"language" = "Language";
+"signout" = "Sign out";
+"update" = "Update";
+"select_service" = "Please select a service";
+"select_employee" = "Please select an employee";
+"select_time" = "Please select a time";
+"select_client" = "Please select client";
+"enter_mobile" = "Please enter mobile number";
+"enter_name" = "Please enter name";
+"enter_email" = "Please enter email";
+"enter_phone" = "Please enter phone";
+"success" = "Success";
+"service_added" = "Service added to basket";
+"checkout_succcess" = "Checkout Successful";
+"cancel_appopint" = "Do you want to cancel the appointment?";
+"yes" = "Yes";
+"no" = "No";
+"userId" = "User ID or Email";
+"password" = "Password";
+"retrive" = "Retrieve Password?";
+"login" = "Login";
+"account_recovery" = "Account Recovery";
+"enter_recovery" = "Please Enter Your Phone Number To Send You Recovery Code";
+"phone_no" = "Phone Number";
+"send" = "Send";
+"enter_new" = "Please Enter New Password";
+"new_password" = "New Password";
+"enter_recovery" = "Please Enter Recovery Code";
+"code" = "ResetCode";
+"verify" = "Verify";
+"sales" = "SALES";
+"cash" = "Cash :";
+"pos_online" = "Card Payments :";
+"pos_split_online" = "POS Split Online :";
+"pos_split_cash" = "POS Split Cash :";
+"app_sales" = "Application Payments :";
+"cancel_penality" = "Cancellation Penality :";
+"total_sales" = "Total Sales :";
+"employee_sales" = "EMPLOYEE SALES";
+"service_sales" = "SERVICE SALES";
+"no_customer" = "No of Customers :";
+"no_service" = "No of Services :";
+"add_client" = "Add Client";
+"full_name" = "Full Name";
+"email" = "Email";
+"back_service" = "Back To Services";
+"search_service" = "Search for services";
+"cvonfirm_payment"  = "Confirm Payment";
+"online_paid" = "Online Paid Amount";
+"cash_paid" = "Cash Paid Amount";
+"balance" = "Balance";
+"card" = "Card";
+"cashs" = "Cash";
+"split" = "Split";
+
+
+"valid_otp" = "Enter valid otp";
+"enter_otp" = "Enter otp";
+"enter_pass" = "Enter password";
+"retype_pass" = "Please retype your password";
+"password_missmatch" = "password missmatch";
+"password_updated" = "Password updated";
+"forgot_pass" = "Forgot Password";
+"submit" = "Submit";
+"update_pass" = "Update Password";
+"confirm_password" = "Confirm Password";
+"phone" = "Phone";
+
+"otp_verification" = "Verify it's you";
+"check_phone" = "Check your phone we have sent you a OTP at your phone number";
+"check_email" = "Check your email we have sent you a OTP at your email";
+"continue" = "Continue";
+"didnt_receive" = "Didn't Receive It?";
+"resend" = "Re - send PIN";
+
+
+
+"Something went wrong try again..." = "Something went wrong try again...";
+"No location found. Please select any location first" =  "No location found. Please select any location first";
+"network Error" = "network Error";
+"Please enter a valid number" = "Please enter a valid number";
+"Verify your email address" = "Verify your email address";
+
+"Password must be at least 8 characters long" = "Password must be at least 8 characters long";
+
+
+"Are you sure you want to signout?" = "Are you sure you want to signout?";
+"Are you sure you want to logout" = "Are you sure you want to logout?";
+
+"Image updated" = "Image updated";
+"Verified" = "Verified";
+"Unverified" = "Unverified";
+"Please choose location" = "Please choose location";
+"Please enter promo code" = "Please enter promo code";
+
+"Upload" = "Upload";
+
+
+
+
+"no_appoint" = "No appointments found";
+"rescedule_appopint" = "Do you want to reschedule the appointment?";
+
+
+
+//  static mobile
+
+"Send OTP" = "Send OTP";
+"All" = "All";
+"Client Added" = "Client Added";
+"Client found" = "Client found";
+"VAT" = "VAT";
+
+
+"Password must be at least 8 characters long" = "Password must be at least 8 characters long";
+
+"Please select a time" = "Please select a time";
+
+"Enter the email address or phone number with your account and we'll send an email with confirmation to reset your password"= "Enter the email address or phone number with your account and we'll send an email with confirmation to reset your password";
+
+"Continue" = "Continue";
+"Not now" = "Not now";
+"Email" = "Email";
+"Phone" = "Phone";
+
+
+"rate" = "Rate";
+"duration" = "Duration";
+"book_now" = "Book Now";
+"add_basket" = "Add to Basket";
+"basket" = "Basket";
+
+"change_password" = "Change Password";
+
+"old_password" = "Current Password";
+"new_password" = "New Password";
+"enter_current" = "Please enter your current password";
+"change_password" = "Change Password";
+
+"Paid" = "Paid";
+"Un Paid" = "Un Paid";
+
+"Branch is closed on this day" = "Branch is closed on this day";
+"Cancel" = "Cancel";
+
+
+
+
+"Discount" = "Discount";
+"DiscountAmount" = "Discount Amount :";
+
+
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"YouSure" = "Are you sure?";
+"WantToDelete" = "Are you sure you want to delete this account?";
+"DeletedMsg" = "Account deleted Successfully";
+"DeleteAccount" = "Delete Account";
+"DeleteAccount2" = "Delete Account?";
+
+
+"Your Cart is Empty" = "Your Cart is Empty";
+
+"done" = "Done";
